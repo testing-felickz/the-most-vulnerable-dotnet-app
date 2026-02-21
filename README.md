@@ -213,21 +213,6 @@ This is an interactive educational project that demonstrates common security vul
 
 ---
 
-## Project Structure
-
-```
-DotnetSecurityFailures/
-├── Components/
-│   ├── Pages/              # Blazor pages demonstrating vulnerabilities
-│   ├── Layout/             # Layout components
-│   └── Shared/             # Shared components
-├── Controllers/            # API controllers with vulnerable endpoints
-├── Services/               # Vulnerable service implementations
-├── Models/                 # Data models and enums
-├── AttackerSite/          # HTML files for attack demonstrations
-└── Program.cs             # Application startup configuration
-```
-
 ## How to Use This Project
 
 1. **Browse the Categories**: Start from the home page and explore vulnerabilities by category
@@ -237,14 +222,6 @@ DotnetSecurityFailures/
 5. **Study the Fix**: Review the secure implementation recommendations
 6. **Check CWE Links**: Follow the CWE links for comprehensive security knowledge
 
-
-## Educational Value
-
-This project is designed for:
-- .NET developers learning secure coding
-- Security trainers and educators
-- Penetration testers understanding .NET vulnerabilities
-- Students studying application security
 
 ## Additional Resources
 
