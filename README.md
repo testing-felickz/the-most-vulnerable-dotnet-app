@@ -1,6 +1,8 @@
 ﻿# .NET Security Vulnerabilities - Educational Application
 
- This application contains intentionally vulnerable code for educational purposes only!
+This application contains intentionally vulnerable code for educational purposes only!
+ 
+![Demo Image](DemoImage.png) 
 
 This is an interactive educational project that demonstrates common security vulnerabilities in .NET applications. Each vulnerability is reproduced in a real working .NET environment where you can debug, explore, and understand what NOT to do, along with recommended secure practices.
 
