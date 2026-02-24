@@ -13,6 +13,9 @@ This is an interactive educational project that demonstrates common security vul
 - **Learn Best Practices**: Each example includes secure alternatives
 - **CWE (Common Weakness Enumeration) References**: Every vulnerability links to official CWE documentation for pro insights
 
+> [!Note]  
+> This repository compliments the following YouTube video: [I Built the Most Insecure .NET App](https://youtu.be/YpRhCjnbwOM)
+
 ## Vulnerability Categories
 
 ### Injection Attacks
